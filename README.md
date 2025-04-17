@@ -18,6 +18,6 @@
 
 <p align="center">
 <img src="Figs/computation (1)_page-0001.jpg" width="500" height="300">
-</p>
+<br>
 <span><strong>Compuational Analysis</strong></span>
 </p>
