@@ -3,8 +3,9 @@
 ### Code Will Be available soon
 
 
-<img src="https://github.com/niazahamd89/VisualCent/blob/main/Figs/Recording_New.gif" al="Description of the GIF" width="850" height="400" />
+<img src="https://github.com/niazahamd89/VisualCent/blob/main/Figs/Recording_New.gif" al="Description of the GIF" width="800" height="400" />
 
+<hr>
 
 <p align="center">
   <img src="Figs/Fig2_page-0001.jpg" width="500" height="300">
