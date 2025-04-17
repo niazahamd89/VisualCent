@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img src="Figs/computation (1)_page-0001.jpg" width="300" height="300">
+<img src="Figs/computation (1)_page-0001.jpg" width="300" height="200">
 <br>
 <span><strong>Compuational Analysis</strong></span>
 </p>
