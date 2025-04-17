@@ -4,6 +4,6 @@
 
 
 <video width="640" height="360" controls>
-  <source src="https://yourusername.github.io/yourrepository/Figs/Recording_New.mp4" type="video/mp4">
+  <source src="https://github.com/niazahamd89/VisualCent/blob/main/Figs/Recording_New.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
