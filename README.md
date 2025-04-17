@@ -15,6 +15,7 @@
   <span><strong>Model Overview</strong></span>
 </p>
 
+<hr>
 
 <p align="center">
 <img src="Figs/computation (1)_page-0001.jpg" width="400" height="300">
@@ -22,8 +23,12 @@
 <span><strong>Compuational Analysis</strong></span>
 </p>
 
+<hr>
+
 <p align="center">
 <img src="Figs/SMC-DMC.png" height="300">
 <br>
 <span><strong>Components Assessment</strong></span>
 </p>
+
+<hr>
