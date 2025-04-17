@@ -1,6 +1,6 @@
-## VisualCent: Visual Human Analysis using Dynamic Centroid Representation (Code Will Be Soon Available)
+## VisualCent: Visual Human Analysis using Dynamic Centroid Representation (IEEE FG 2025)
 
-#### IEEE FG 2025 
+### Code Will Be available soon
 
 
 <video width="640" height="360" controls>
