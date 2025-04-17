@@ -10,5 +10,5 @@
 
 
 <p align="center">
-<img src="Figs/c.png" width="500" height="600">
+<img src="" width="500" height="600">
 </p>
