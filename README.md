@@ -10,14 +10,14 @@
 
 
 <p align="center">
-  <img src="Figs/Fig2_page-0001.jpg" width="500" height="300">
+  <img src="Figs/Fig2_page-0001.jpg" width="700" height="500">
   <br>
   <span><strong>Model Overview</strong></span>
 </p>
 
 
 <p align="center">
-<img src="Figs/computation (1)_page-0001.jpg" width="500" height="300">
+<img src="Figs/computation (1)_page-0001.jpg" width="300" height="300">
 <br>
 <span><strong>Compuational Analysis</strong></span>
 </p>
