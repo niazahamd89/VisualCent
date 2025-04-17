@@ -7,3 +7,8 @@
   <source src="https://github.com/niazahamd89/VisualCent/blob/main/Figs/Recording_New.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+
+<p align="center">
+<img src="Figs/c.png" width="500" height="600">
+</p>
