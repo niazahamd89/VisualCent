@@ -21,3 +21,9 @@
 <br>
 <span><strong>Compuational Analysis</strong></span>
 </p>
+
+<p align="center">
+<img src="Figs/SMC-DMC.png" height="300">
+<br>
+<span><strong>Components Assessment</strong></span>
+</p>
