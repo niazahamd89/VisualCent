@@ -10,9 +10,11 @@
 
 
 <p align="center">
+  #### Model 
 <img src="Figs/Fig2_page-0001.jpg" width="500" height="300">
 </p>
 
 <p align="center">
+  #### Compuational Analysis
 <img src="Figs/computation (1)_page-0001.jpg" width="500" height="300">
 </p>
