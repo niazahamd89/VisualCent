@@ -12,3 +12,7 @@
 <p align="center">
 <img src="Figs/Fig2_page-0001.jpg" width="500" height="300">
 </p>
+
+<p align="center">
+<img src="Figs/computation (1)_page-0001.jpg" width="500" height="300">
+</p>
