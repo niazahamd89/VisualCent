@@ -1,6 +1,6 @@
 ## VisualCent: Visual Human Analysis using Dynamic Centroid Representation (IEEE FG 2025)
 
-### Code Will Be available soon
+### Code will be available soon
 
 
 <img src="https://github.com/niazahamd89/VisualCent/blob/main/Figs/Recording_New.gif" al="Description of the GIF" width="750" height="400" />
